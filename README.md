@@ -1,1 +1,1 @@
-# Programming(MATHEMATIC PROBLEMS IN PYTHON PROGRAM)
+# Programming
